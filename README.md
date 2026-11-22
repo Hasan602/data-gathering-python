@@ -10,4 +10,4 @@ data from the most common sources with **Pandas**.
 
 To run the SQL notebook, import `world.sql` into a local MySQL server first.
 
-Author: **Md Hasan** · [mathbookbd.com](https://mathbookbd.com)
+Author: **Mohammad Hasan** · [mathbookbd.com](https://mathbookbd.com)
